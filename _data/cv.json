@@ -1,152 +1,196 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Mohammad Azam Khan",
+    "email": "azam.cis@diu.edu.bd",
+    "phone": "+8801715444441",
+    "website": "https://akhanss.github.io",
+    "summary": "Associate Professor, Dept. of Computing and Information System, Daffodil International University. AI, LLM reasoning & agentic AI research; coach, Bangladesh National AI Olympiad team.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "address": "Knowledge Tower (Level 7), DIU, DSC, Birulia, Ashulia, Savar",
+      "postalCode": "1216",
+      "city": "Dhaka",
+      "countryCode": "BD",
+      "region": "Dhaka"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=-obdhk0AAAAJ&hl=en"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0001-8441-6211"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "akhanss",
+        "url": "https://github.com/akhanss"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "mdazamkhan",
+        "url": "https://www.linkedin.com/in/mdazamkhan/"
+      },
+      {
+        "network": "ResearchGate",
+        "username": "",
+        "url": "https://www.researchgate.net/profile/Mohammad-Azam-Khan-2"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Daffodil International University",
+      "position": "Associate Professor",
+      "startDate": "2026-01",
+      "endDate": "",
+      "summary": "Teaching, mentoring, AI national team selection and training, and BAC accreditation support."
+    },
+    {
+      "company": "Daffodil International University",
+      "position": "Assistant Professor",
+      "startDate": "2024-07",
+      "endDate": "2025-08",
+      "summary": "Teaching undergraduate/graduate courses, mentoring students, BAC accreditation support, AI competitions."
+    },
+    {
+      "company": "EnterTake Co., Ltd.",
+      "position": "Research Engineer",
+      "startDate": "2024-01",
+      "endDate": "2024-07",
+      "summary": "Development of a personalized service web & app platform based on cosmeceuticals."
+    },
+    {
+      "company": "Kim Jaechul Graduate School of Artificial Intelligence, KAIST",
+      "position": "Postdoctoral Fellow",
+      "startDate": "2021-12",
+      "endDate": "2023-12",
+      "summary": "Deep learning for medical image analysis and time-series data analytics."
+    },
+    {
+      "company": "Dhaka Power Distribution Company Limited (DPDC)",
+      "position": "Assistant/Sub-divisional/Executive Engineer",
+      "startDate": "2009-03",
+      "endDate": "2021-11",
+      "summary": "IT strategy support, technological research, and delivery of two nationally-awarded projects."
+    },
+    {
+      "company": "Bangladesh University of Engineering and Technology (BUET)",
+      "position": "Teaching Assistant",
+      "startDate": "2008-06",
+      "endDate": "2009-03",
+      "summary": "Supported academic activities in the Dept. of Computer Science and Engineering."
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Korea University",
+      "area": "Ph.D. in Computer Science and Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "2016-09",
+      "endDate": "2020-02",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "Bangladesh University of Engineering and Technology (BUET)",
+      "area": "M.Engg. in Computer Science and Engineering",
+      "studyType": "M.Engg.",
+      "startDate": "2008-05",
+      "endDate": "2013-09",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "International Islamic University Chittagong (IIUC)",
+      "area": "B.Sc.Engg. in Computer Science and Engineering",
+      "studyType": "B.Sc.Engg.",
+      "startDate": "2004-04",
+      "endDate": "2008-02",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    { "name": "Expertise", "keywords": ["AI", "LLM Reasoning", "Responsive AI"] },
+    { "name": "Programming", "keywords": ["C/C++", "Python", "PyTorch"] },
+    { "name": "Languages", "keywords": ["Bengali", "English", "Korean"] },
+    { "name": "Others", "keywords": ["LaTeX", "git", "Docker", "Apptainer"] }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "WaveBound: Dynamic Error Bounds for Stable Time-Series Forecasting",
+      "publisher": "NeurIPS",
+      "releaseDate": "2022-11-01",
+      "website": "https://akhanss.github.io/publication/2022-11-01-wavebound-dynamic-error-bounds-time-series",
+      "summary": "Dynamic error bounds for stable time-series forecasting."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Automatic detection of tympanic membrane and middle ear infection from oto-endoscopic images via convolutional neural networks",
+      "publisher": "Neural Networks",
+      "releaseDate": "2020-01-01",
+      "website": "https://akhanss.github.io/publication/2020-01-01-tympanic-membrane-middle-ear-infection-detection",
+      "summary": "CNNs for automatic detection of tympanic membrane and middle ear infection."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Development of Artificial Intelligence System for Quality Control of Photo Documentation in Esophagogastroduodenoscopy",
+      "publisher": "Surgical Endoscopy",
+      "releaseDate": "2022-01-01",
+      "website": "https://akhanss.github.io/publication/2022-01-01-ai-quality-control-egd-photo-documentation",
+      "summary": "AI system for quality control of EGD photo documentation."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
+      "name": "WaveBound: Dynamic Error Bounds for Stable Time-Series Forecasting",
+      "event": "NeurIPS 2022",
+      "date": "2022-11-01",
+      "location": "New Orleans, USA",
       "description": ""
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "Not Just Compete, but Collaborate: Local Image-to-Image Translation via Cooperative Mask Prediction",
+      "event": "CVPR",
+      "date": "2021-06-01",
+      "location": "Virtual (COVID-19)",
       "description": ""
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "AI, ML, Deep Learning, Big Data Analytics, Data Structure, Algorithms, Computer Networks",
+      "institution": "Daffodil International University",
+      "date": "2024-07-13",
+      "role": "Course Instructor",
+      "description": "Undergraduate and graduate courses in the Dept. of Computing and Information System."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "Departmental academic support",
+      "institution": "Bangladesh University of Engineering and Technology (BUET)",
+      "date": "2008-06-01",
+      "role": "Teaching Assistant",
       "description": ""
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "Low-Cost IoT-Based Power Interruption Monitoring System",
       "category": "portfolio",
       "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "url": "https://akhanss.github.io/portfolio/low-cost-iot-power-interruption-monitoring/",
+      "description": "National ICT Award 2020 winning project (Digital Government, and Internet of Things)."
+    },
+    {
+      "name": "Meter Reading Snapshot Validation using CNNs",
+      "category": "portfolio",
+      "date": "",
+      "url": "https://akhanss.github.io/portfolio/meter-reading-snapshot-validation-cnn/",
+      "description": "National ICT Award 2020 winning project (R&D, and Technology/AI)."
     }
   ]
 }
