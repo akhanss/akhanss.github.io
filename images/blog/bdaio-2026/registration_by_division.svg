@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="700" height="370" preserveAspectRatio="xMinYMin meet" viewBox="0 0 700 370" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="700" height="370"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-370)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="15" y="345" style="font-family: Arial-Bold; font-size: 19px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,690) scale(1,-1)">BdAIO 2026 registrations by residence division</text>
+			<text x="15" y="302" style="font-family: Arial; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,604) scale(1,-1)">Dhaka</text>
+			<rect x="125" y="299" width="472.5" height="17" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,40%,34%); fill-rule: evenodd;"/>
+			<text x="604.5" y="302" style="font-family: Arial; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,604) scale(1,-1)">315</text>
+			<text x="15" y="271" style="font-family: Arial; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,542) scale(1,-1)">Rangpur</text>
+			<rect x="125" y="268" width="418.5" height="17" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,40%,34%); fill-rule: evenodd;"/>
+			<text x="550.5" y="271" style="font-family: Arial; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,542) scale(1,-1)">279</text>
+			<text x="15" y="240" style="font-family: Arial; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,480) scale(1,-1)">Chattogram</text>
+			<rect x="125" y="237" width="225.0" height="17" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,40%,34%); fill-rule: evenodd;"/>
+			<text x="357.0" y="240" style="font-family: Arial; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,480) scale(1,-1)">150</text>
+			<text x="15" y="209" style="font-family: Arial; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,418) scale(1,-1)">Rajshahi</text>
+			<rect x="125" y="206" width="162.0" height="17" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,40%,34%); fill-rule: evenodd;"/>
+			<text x="294.0" y="209" style="font-family: Arial; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,418) scale(1,-1)">108</text>
+			<text x="15" y="178" style="font-family: Arial; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,356) scale(1,-1)">Khulna</text>
+			<rect x="125" y="175" width="81.0" height="17" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,40%,34%); fill-rule: evenodd;"/>
+			<text x="213.0" y="178" style="font-family: Arial; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,356) scale(1,-1)">54</text>
+			<text x="15" y="147" style="font-family: Arial; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,294) scale(1,-1)">Sylhet</text>
+			<rect x="125" y="144" width="43.5" height="17" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,40%,34%); fill-rule: evenodd;"/>
+			<text x="175.5" y="147" style="font-family: Arial; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,294) scale(1,-1)">29</text>
+			<text x="15" y="116" style="font-family: Arial; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,232) scale(1,-1)">Mymensingh</text>
+			<rect x="125" y="113" width="39.0" height="17" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,40%,34%); fill-rule: evenodd;"/>
+			<text x="171.0" y="116" style="font-family: Arial; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,232) scale(1,-1)">26</text>
+			<text x="15" y="85" style="font-family: Arial; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,170) scale(1,-1)">Barishal</text>
+			<rect x="125" y="82" width="10.5" height="17" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,40%,34%); fill-rule: evenodd;"/>
+			<text x="142.5" y="85" style="font-family: Arial; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,170) scale(1,-1)">7</text>
+			<text x="15" y="28" style="font-family: Arial; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,56) scale(1,-1)">968 registration records, including repeat submissions. Not verified attendance.</text>
+			<text x="15" y="10" style="font-family: Arial; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,20) scale(1,-1)">Source: BdAIO registration 2026 Details.xlsx, All Data.</text>
+		</g>
+	</g>
+</svg>
