@@ -20,6 +20,9 @@ main:
   - title: "Projects"
     url: /portfolio/
 
+  - title: "Blogs"
+    url: /blogs/
+
   - title: "Service & AI Olympiad"
     url: /service/
 
